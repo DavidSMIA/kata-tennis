@@ -21,6 +21,7 @@ The scoring system is rather simple:
 
 
 =================================================================
+
                         INFOS COMPLEMENTAIRES
 
 2 versions d'implementation : 
