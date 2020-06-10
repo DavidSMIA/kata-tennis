@@ -22,7 +22,6 @@ The scoring system is rather simple:
 
 ==========================================================================================
                         INFOS COMPLEMENTAIRES
-==========================================================================================    
 
 2 versions d'implementation : 
 
@@ -38,7 +37,8 @@ v2 :
 Les 2 implémentations peuvent être lancées via les main de RollandGarros et Winbledon
 pour simuler des matchs aléatoires.
 
-Tests: 
+Tests : 
+
 J'ai fait le choix d'utiliser des tests paramétrables pour limiter la duplication de code proche
 Tout en séparant les 4 cas possibles de score (player, deuce, avantage, game)
 Il aurait également été possible de faire 1 seul test paramétrable 
