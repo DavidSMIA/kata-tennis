@@ -20,7 +20,7 @@ The scoring system is rather simple:
 4. If at least three points have been scored by each side and a player has one more point than his opponent, the score of the game is “advantage” for the player in the lead.
 
 
-==========================================================================================
+=================================================================
                         INFOS COMPLEMENTAIRES
 
 2 versions d'implementation : 
